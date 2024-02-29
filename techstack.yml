@@ -2,7 +2,7 @@ repo_name: rayhanuddin2019/complete-intro-to-react-v5
 report_id: 900d73e10a0e50c3bae5d7c488ffbbf7
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:53:28+00:00'
+timestamp: '2024-02-29T18:35:40+00:00'
 requested_by: 1Marc
 provider: github
 branch: master
@@ -95,7 +95,7 @@ tools:
   last_updated_by: Brian Holt
   last_updated_on: 2019-02-16 07:41:01.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.17.0
   license: MIT
